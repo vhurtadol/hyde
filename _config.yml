@@ -7,9 +7,9 @@ permalink:        pretty
 
 # Setup
 title:            Verónica Hurtado
-tagline:          'UBC PhD candidate'
-description:      'Political Science PhD Candidate'
-baseurl:          "/"
+tagline:          'Political Science'
+description:      'Political Science PhD Candidate at the University of British Columbia'
+baseurl:          ""
 
 author:
   name:           ''
