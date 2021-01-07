@@ -13,5 +13,7 @@ The main challenge for populist mobilizations is to transcend the geographical c
 
 My dissertation seeks to explain the emergence of populist mobilization at the local level from a bottom-up perspective, and to identify the factors that motivate or limit the advance of populism.
 
-<img style="float: right;" src="https://raw.githubusercontent.com/vhurtadol/vhurtadol.github.io/gh-pages/public/12N-8.JPG" width="450" height="475"> <img style="float: right;" src="https://raw.githubusercontent.com/vhurtadol/vhurtadol.github.io/gh-pages/public/90.jpeg" width="450" height="475">
+<img style="float: right;" src="https://raw.githubusercontent.com/vhurtadol/vhurtadol.github.io/gh-pages/public/12N-8.JPG"> 
+
+<img style="float: right;" src="https://raw.githubusercontent.com/vhurtadol/vhurtadol.github.io/gh-pages/public/90.jpeg">
 
