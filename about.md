@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### About me
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello! I am a Political Science Ph.D. Candidate at the University of British Columbia, Vancouver, Canada. My pronouns are she/her. My research focuses on political economy of development and political behavior, with a regional specialization in Latin America. For my dissertation, I study the formation and scope of populist mobilizations in two Andean countries: Peru and Bolivia. Using network analysis and GSI techniques, I analyse how populism can emerge from bottom-up processes in the developing world. You can see my [CV here](https://www.dropbox.com/s/mmvp0wizqies71z/CV%20ENG%20-%20HURTADO%20Veronica.pdf?dl=0).
 
-There are currently two themes built on Poole:
+### Contact me
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+[vhurtado@alumni.ubc.ca](mailto:vhurtado@alumni.ubc.ca)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Sobre mí
 
-## Setup
+Hola! Actualmente soy candidata doctoral en el departamento de Ciencia Política en la Universidad de la Columbia Británica, Vancouver, Canadá. Mi pronombre es "ella". Mi investigación está enfocada en economía política del desarrollo y comportamiento político, con especialización regional en América Latina. Para mi tesis, me encuentro estudiando el proceso de formación y alcance de movilizaciones populistas en dos países andinos: Perú y Bolivia. Usando análisis de redes y técnicas de GSI, analizo cómo el populismo puede surgir de procesos ascendentes en el mundo en desarrollo. Puede ver mi [CV aquí](https://www.dropbox.com/s/th9vhxj1e2xwmpu/CV%20ESP%20-%20HURTADO%20Veronica.pdf?dl=0).
 
-Some fun facts about the setup of this project include:
+### Contacto
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[vhurtado@alumni.ubc.ca](mailto:vhurtado@alumni.ubc.ca)
