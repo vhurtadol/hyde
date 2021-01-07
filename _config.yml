@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Verónica Hurtado Lozada
+title:            Verónica Hurtado
 tagline:          'UBC PhD candidate'
-description:      ''
+description:      'Political Science PhD Candidate'
 baseurl:          /hyde/
 
 author:
