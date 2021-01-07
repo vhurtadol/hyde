@@ -15,11 +15,3 @@ My dissertation seeks to explain the emergence of populist mobilization at the l
 
 <img style="float: right;" src="https://raw.githubusercontent.com/vhurtadol/vhurtadol.github.io/gh-pages/public/12N-8.JPG" width="450" height="475"> <img style="float: right;" src="https://raw.githubusercontent.com/vhurtadol/vhurtadol.github.io/gh-pages/public/90.jpeg" width="450" height="475">
 
-
-### Social policy response to the COVID-19 pandemic (with [Paolo Sosa](https://paolososavillagarcia.com))
-
-The COVID-19 pandemic has challenged Latin American governments to provide not only a healthcare response, but also innovative economic and social policy to reduce the costs of social distancing and mandatory lockdown. These policies range from credit bailouts for businesses and wage subsidies to universal direct cash transfers. However, states with uneven territorial presence have struggled to effectively implement social policy throughout their territory, reducing their ability to control the pandemic. 
-
-In this paper, we use the Peruvian case to analyse the implementation of a direct cash transfer policy targeted to poor households, named Bono COVID-19 (COVID-19 Bonus). Although the bono has been approved in April, there is extreme variation in its implementation throughout the territory. Why has this policy been so unevenly implemented? Using a multi-level model to analyse data from the Ministry of Social Development and Inclusion of Peru, we argue that the difference can be explained by previous subnational experiences with social programs. Social programs in Peru have been in place since the early 2000s, creating the required infrastructure to effectively distribute the benefits, follow-up on the beneficiaries and provide reliable information about the implementation. 
-
-We find that territories that have been exposed to social programs over longer periods of time are more likely to effectively implement the Bono COVID-19 in Peru. Our research seeks to contribute to the study of long-term benefits of social policy on state capacity building.
