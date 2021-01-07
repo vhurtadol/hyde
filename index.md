@@ -11,5 +11,5 @@ I am a Political Science Ph.D. Candidate at the University of British Columbia, 
 
 Hola! Actualmente soy candidata doctoral en el departamento de Ciencia Política en la Universidad de la Columbia Británica, Vancouver, Canadá. Mi pronombre es "ella". Mi investigación está enfocada en economía política del desarrollo y comportamiento político, con especialización regional en América Latina. Para mi tesis, me encuentro estudiando el proceso de formación y alcance de movilizaciones populistas en dos países andinos: Perú y Bolivia. Usando análisis de redes y técnicas de GSI, analizo cómo el populismo puede surgir de procesos ascendentes en el mundo en desarrollo. 
 
-![]("https://github.com/vhurtadol/vhurtadol.github.io/hurtado_img.png")
+![](https://github.com/vhurtadol/vhurtadol.github.io/hurtado_img.png)
 
