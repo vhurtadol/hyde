@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-### Populist mobilization in the Andes
+### Competing without parties: Voter mobilization in Bolivia and Peru
 
 In my dissertation, I aim to explain the sources of variation in the dynamics of populist mobilization. When and why does local populism reach national level politics? Does it always need to use electoral vehicles, or can it remain on the sidelines? What are the effects of populism on democratic stability? I use the cases of Peru and Bolivia to analyse dynamics of populist mobilization in Latin America over the last twenty years.
 
