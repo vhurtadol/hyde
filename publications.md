@@ -15,6 +15,8 @@ title: Publications
 
 ### Public scholarship 
 
+["The Mining Vote in the 2021 Peruvian Election"](https://forum.lasaweb.org/files/vol52-issue4/Dossier-6.pdf) (with M. Cameron)
+
 ["A New Era of Protest Rocks Peru"](https://nacla.org/news/2020/11/19/new-era-protest-rocks-peru)
      
 ["Consulta Previa in Peru: Moving Forward"](https://www.as-coa.org/sites/default/files/2015_CP_PERU_June_29.pdf) (with C. Sanborn and T. Ramirez)
