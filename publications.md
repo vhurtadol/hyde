@@ -13,6 +13,12 @@ title: Publications
 
 ["El conflicto político como mecanismo de legitimización de alcaldes provinciales. Análisis de los casos de Arequipa (2002) y Espinar (2012)"](http://revistas.pucp.edu.pe/index.php/politai/article/view/14380)
 
+### Working papers
+
+["The Limited Effectiveness of Corrections on Candidate Evaluation"](https://www.dropbox.com/s/qw57bzo23ycg9f2/Paper%201%20-%20Hurtado%20Veronica.pdf?dl=0)  
+
+["Territorial Unevenness and Cash Transfers: The Implementation of Bono COVID-19 in Peru"] (https://www.dropbox.com/s/v35noyyqwdbrho5/Paper%202%20-%20Hurtado%20Veronica.pdf?dl=0)
+
 ### Public scholarship 
 
 ["The Mining Vote in the 2021 Peruvian Election"](https://forum.lasaweb.org/files/vol52-issue4/Dossier-6.pdf) (with M. Cameron)
