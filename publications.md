@@ -17,7 +17,7 @@ title: Publications
 
 ["The Limited Effectiveness of Corrections on Candidate Evaluation"](https://www.dropbox.com/s/qw57bzo23ycg9f2/Paper%201%20-%20Hurtado%20Veronica.pdf?dl=0)  
 
-["Territorial Unevenness and Cash Transfers: The Implementation of Bono COVID-19 in Peru"] (https://www.dropbox.com/s/v35noyyqwdbrho5/Paper%202%20-%20Hurtado%20Veronica.pdf?dl=0)
+["Territorial Unevenness and Cash Transfers: The Implementation of Bono COVID-19 in Peru"](https://www.dropbox.com/s/v35noyyqwdbrho5/Paper%202%20-%20Hurtado%20Veronica.pdf?dl=0)
 
 ### Public scholarship 
 
