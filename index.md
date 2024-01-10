@@ -11,7 +11,7 @@ I use a mixed method approach that combines in-depth interviews, archival work, 
 
 ### ¡Hola!
 
-Hola! Actualmente soy sociada Postdoctoral con el MacMillan Center en la Universidad de Yale, donde trabajo en colaboración con la International Fox Fellowship. El próximo año, en Agosto del 2024, seré Profesora Asistente de Ciencia Política en la Escuela de Gobierno de la Universidad Adolfo Ibáñez en Santiago de Chile. Mi investigación está enfocada en temas relacionados a la economía política del desarrollo y el comportamiento político comparado, con una especialización regional en América Latina.
+Hola! Actualmente soy Asociada Postdoctoral con el MacMillan Center en la Universidad de Yale, donde trabajo en colaboración con la International Fox Fellowship. El próximo año, en Agosto del 2024, seré Profesora Asistente de Ciencia Política en la Escuela de Gobierno de la Universidad Adolfo Ibáñez en Santiago de Chile. Mi investigación está enfocada en temas relacionados a la economía política del desarrollo y el comportamiento político comparado, con una especialización regional en América Latina.
 
 Utilizo un enfoque de métodos mixtos que combina entrevistas en profundidad, trabajo de archivo y análisis estadístico de datos tanto experimentales como observacionales, para estudiar el uso de desinformación política en democracias en desarrollo, el efecto de los eventos de protesta en la participación y preferencia de los votantes, y estrategias de campaña en democracias sin partidos.
 
