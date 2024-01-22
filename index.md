@@ -5,7 +5,7 @@ title: Home
 
 ### Hello!
 
-I am a Postdoctoral Associate with the MacMillan Center at Yale University, where I work at as part of the International Fox Fellowship. After that (Fall 2024), I will be an Assistant Professor of Political Science at the School of Government at the Universidad Adolfo Ibáñez in Santiago de Chile. My research focuses on political economy of development and comparative political behavior, with a regional specialization in Latin America.  
+I am a Postdoctoral Associate with the MacMillan Center at Yale University, where I work as part of the International Fox Fellowship. Following that (Fall 2024), I will be an Assistant Professor of Political Science at the School of Government at the Universidad Adolfo Ibáñez in Santiago de Chile. My research focuses on the political economy of development and comparative political behavior, with a regional specialization in Latin America.
 
 I use a mixed method approach that combines in-depth interviews, archival work, and statistical analysis of both experimental and observational data, to study the use of political misinformation in developing democracies, the effect of protest events on voter turnout and preference, and campaign strategies in democracies without parties.
 
